@@ -1,0 +1,2 @@
+# Intellidigest_internship_presentaion
+Presentaions for IntelliDigest internship
