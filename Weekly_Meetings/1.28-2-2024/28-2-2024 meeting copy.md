@@ -98,7 +98,10 @@ Feature Selection and Model Selection
 
 ![alt text](image.png)
 
-Argument meaning: 
+paraments meaning
+
+- numerical value 
+- diagonal  
 
 ---
 
